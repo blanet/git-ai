@@ -1,0 +1,31 @@
+test-semi-linear.sh
+  e2cfc7f9ec47e8ca 1-346
+backfill-authorship.md
+  e2cfc7f9ec47e8ca 1-11,13-17,19-24,26,30-32,34-45,47-55,57-71,73,75-80,82-87,89-104,106-109,111-116,118-133,135-138,140-148,150-169,171-174,176-184,186-199,201-287,289-292,294-300,302-318,320-323,325-327,329-331,333-338,340,343-350
+test-rebase.sh
+  e2cfc7f9ec47e8ca 1-293
+test-squash-merge.sh
+  e2cfc7f9ec47e8ca 1-308
+test-squash.sh
+  e2cfc7f9ec47e8ca 1-222
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.5",
+  "base_commit_sha": "421b97993786d79149eb7594bd8a79837cf764b4",
+  "prompts": {
+    "e2cfc7f9ec47e8ca": {
+      "agent_id": {
+        "tool": "coco",
+        "id": "unknown-session",
+        "model": "unknown"
+      },
+      "human_author": "Xing Xin",
+      "messages": [],
+      "total_additions": 1734,
+      "total_deletions": 223,
+      "accepted_lines": 1486,
+      "overriden_lines": 11
+    }
+  }
+}
