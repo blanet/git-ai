@@ -1,0 +1,45 @@
+src/commands/checkpoint_agent/presets/agent_v1.rs
+  s_34eb28a67645f4::t_675b42fb939c5b 341-342,344,346-347,349-359
+  s_34eb28a67645f4::t_68395ec428b6d4 36,44
+  s_34eb28a67645f4::t_bee3522743df1d 127
+  s_34eb28a67645f4::t_d688a53e968904 33,41,49-50
+  s_34eb28a67645f4::t_47ffe839d5bf15 329,338-339
+  s_34eb28a67645f4::t_f79a07d34ef393 1-4
+  s_34eb28a67645f4::t_e0e8b12982cf77 31,39
+  s_34eb28a67645f4::t_adb30568e5d5cd 140,163
+  s_34eb28a67645f4::t_bb37dddce50f5d 150
+  s_34eb28a67645f4::t_7fdf7c9b593db8 276-277,279,281-302,304,306-328,330,332-337,340
+  s_34eb28a67645f4::t_461e25fa7a4680 331
+  s_34eb28a67645f4::t_bcf3597e974d46 278,280
+  s_34eb28a67645f4::t_aad2c1d109c463 128-139,141-149,151-162,164-173
+  s_34eb28a67645f4::t_5cf8199d2b7f0a 303,305
+  s_34eb28a67645f4::t_1d8d7e860206e8 343,345
+  s_34eb28a67645f4::t_97aee369a36e79 32,34-35,37-38,40,42-43,45-48
+  s_34eb28a67645f4::t_85de9050dc1938 348
+scripts/test-agent-preset-v1.sh
+  s_34eb28a67645f4::t_b15291fc855d1d 31-32,34,36-42,44,46-50
+  s_34eb28a67645f4::t_a8d50f9cb8f415 33,35
+  s_34eb28a67645f4::t_7b052ef5ca7ec7 43,45
+tests/integration/agent_v1.rs
+  s_34eb28a67645f4::t_b0125be006fc7f 213
+  s_34eb28a67645f4::t_c24ce2c2c6bb30 182-185,187-212,214-240,242-243,245-257
+  s_34eb28a67645f4::t_af69152d7855f7 244
+  s_34eb28a67645f4::t_27c0a3b5b559b6 241
+  s_34eb28a67645f4::t_8580d1f0718f7e 186
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "2529a13c6f3aebf64db00dae4be45f6e02d38b3e",
+  "prompts": {},
+  "sessions": {
+    "s_34eb28a67645f4": {
+      "agent_id": {
+        "tool": "Trae CLI (Coco)",
+        "id": "40341307-04cd-41c2-9590-9e989c49b0b1",
+        "model": "unknown"
+      },
+      "human_author": null
+    }
+  }
+}
