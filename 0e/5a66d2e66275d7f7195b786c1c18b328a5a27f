@@ -1,0 +1,21 @@
+src/commands/checkpoint_agent/presets/agent_v1.rs
+  s_d14a240348ae16::t_a539e154c7f9bf 18-19,26
+  s_d14a240348ae16::t_9762201196f8e3 37-46
+  s_d14a240348ae16::t_5668dd38d0f780 155-178
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "0e5a66d2e66275d7f7195b786c1c18b328a5a27f",
+  "prompts": {},
+  "sessions": {
+    "s_d14a240348ae16": {
+      "agent_id": {
+        "tool": "Trae CLI (Coco)",
+        "id": "5c7ce004-0aa2-4f99-9558-ee580c30eae0",
+        "model": "unknown"
+      },
+      "human_author": "Xing Xin <xingxin.xx@bytedance.com>"
+    }
+  }
+}
