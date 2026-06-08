@@ -1,0 +1,19 @@
+tests/integration/agent_v1.rs
+  s_bd0b7478a31194::t_0a5dc8095214f4 351
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "a96ebe7b959aa914c3e42ee873857d7d81f49d4e",
+  "prompts": {},
+  "sessions": {
+    "s_bd0b7478a31194": {
+      "agent_id": {
+        "tool": "Trae CLI (Coco)",
+        "id": "ef6e5688-c94b-4cca-8ccf-9c5bc5c699c8",
+        "model": "unknown"
+      },
+      "human_author": "Xing Xin <xingxin.xx@bytedance.com>"
+    }
+  }
+}
